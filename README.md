@@ -75,4 +75,5 @@ Section: 002
 
 ID: 2027 1459
 
-Acknowledgements: I used ChatGPT level 4 to help me display the outputs to the user in a more visually pleasing way.
+Acknowledgements: I used ChatGPT level 4 to help me display the outputs to the user in a more visually pleasing way. ChatGPT was also used to help me run two different functions in the Gradio portion of my code.
+
